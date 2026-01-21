@@ -17,7 +17,7 @@
 ---
 
 ## 🚩 Projet actuel : SpeedFlag
-Je suis le créateur de **SpeedFlag**, un jeu de rapidité sur les drapeaux du monde.
+Je suis le créateur de **[SpeedFlag](https://speedflag.net/)**, un jeu de rapidité sur les drapeaux du monde.
 * **Concept :** Deviner un maximum de drapeaux en 30 secondes.
 * **Stack :** React JS et node JS
 * **Infrastructure :** Entièrement déployé sur mon **Raspberry Pi** personnel.
